@@ -30,15 +30,6 @@ function Join() {
 
 export default Join;
 
-// const Header = styled.div`
-//   display: inline-block;
-//   width: 74px;
-//   height: 108px; //이거 % 안되서 그 뭐지 명품말고 책 들고가서 해야겠다
-
-//   display: block;
-//   background-color: peru;
-// `;
-
 const Body = styled.div`
   height: 847px;
   display: flex;
